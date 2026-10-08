@@ -31,6 +31,10 @@ N100 기반 미니 PC 2대로 구성한 Proxmox 홈랩 구축 기록입니다.
 8. [Cloud-Init 템플릿 생성](docs/08-cloud-init-template.md)
 9. [템플릿 복제와 멀티 노드 주의사항](docs/09-template-clone-multinode.md)
 
+## 추가 구축 사례
+
+- [RTX 4080 SUPER GPU 패스스루 VM 구축 및 문제 해결](docs/gpu-passthrough/README.md)
+
 ## 기본 원칙
 
 - Proxmox 노드 이름과 VM 이름은 역할이 다르므로 분리해서 생각한다.
